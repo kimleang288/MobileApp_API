@@ -1,0 +1,100 @@
+{
+  "in_progress": [
+    {
+      "id": 1,
+      "name": "Office Project",
+      "title": "Grocery shopping app design",
+      "progress": 60,
+      "color": "#4A90E2"
+    },
+    {
+      "id": 2,
+      "name": "Personal Project",
+      "title": "Uber Eats redesign challenge",
+      "progress": 80,
+      "color": "#F2994A"
+    },
+    {
+      "id": 3,
+      "name": "Office Project",
+      "title": "Company website UI update",
+      "progress": 45,
+      "color": "#6C63FF"
+    },
+    {
+      "id": 4,
+      "name": "Daily Study",
+      "title": "Study Android RecyclerView",
+      "progress": 70,
+      "color": "#9B51E0"
+    },
+    {
+      "id": 5,
+      "name": "Personal Project",
+      "title": "Build portfolio website",
+      "progress": 30,
+      "color": "#F2C94C"
+    },
+    {
+      "id": 6,
+      "name": "Office Project",
+      "title": "Prepare client presentation",
+      "progress": 90,
+      "color": "#EB5757"
+    },
+    {
+      "id": 7,
+      "name": "Daily Study",
+      "title": "Learn Retrofit API integration",
+      "progress": 55,
+      "color": "#27AE60"
+    },
+    {
+      "id": 8,
+      "name": "Personal Project",
+      "title": "Design task manager UI",
+      "progress": 65,
+      "color": "#56CCF2"
+    },
+    {
+      "id": 9,
+      "name": "Office Project",
+      "title": "Database optimization",
+      "progress": 40,
+      "color": "#BB6BD9"
+    },
+    {
+      "id": 10,
+      "name": "Daily Study",
+      "title": "Practice Kotlin Coroutines",
+      "progress": 75,
+      "color": "#F2994A"
+    }
+  ],
+  "task_groups": [
+    {
+      "id": 1,
+      "name": "Office Project",
+      "tasks": 23,
+      "progress": 70,
+      "icon": "https://raw.githubusercontent.com/kimleang288/to-do-list-json-api/main/images/briefcase.png",
+      "color": "#EFBAF7"
+    },
+    {
+      "id": 2,
+      "name": "Personal Project",
+      "tasks": 30,
+      "progress": 52,
+      "icon": "https://raw.githubusercontent.com/kimleang288/to-do-list-json-api/main/images/book.png",
+      "color": "#FFE180"
+    },
+    {
+      "id": 3,
+      "name": "Daily Study",
+      "tasks": 30,
+      "progress": 87,
+      "icon": "https://raw.githubusercontent.com/kimleang288/to-do-list-json-api/main/images/user-octagon.png",
+      "color": "#D0A7F2"
+    }
+    ]
+}
