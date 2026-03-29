@@ -77,7 +77,7 @@
       "name": "Office Project",
       "tasks": 23,
       "progress": 70,
-      "icon": "https://raw.githubusercontent.com/kimleang288/to-do-list-json-api/main/images/briefcase.png",
+      "icon": "https://raw.githubusercontent.com/kimleang288/MobileApp_API/refs/heads/main/tasks.json",
       "color": "#EFBAF7"
     },
     {
@@ -85,7 +85,7 @@
       "name": "Personal Project",
       "tasks": 30,
       "progress": 52,
-      "icon": "https://raw.githubusercontent.com/kimleang288/to-do-list-json-api/main/images/book.png",
+      "icon": "https://raw.githubusercontent.com/kimleang288/MobileApp_API/refs/heads/main/tasks.json",
       "color": "#FFE180"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Daily Study",
       "tasks": 30,
       "progress": 87,
-      "icon": "https://raw.githubusercontent.com/kimleang288/to-do-list-json-api/main/images/user-octagon.png",
+      "icon": "https://raw.githubusercontent.com/kimleang288/MobileApp_API/refs/heads/main/tasks.json",
       "color": "#D0A7F2"
     }
     ]
