@@ -85,7 +85,7 @@
       "name": "Personal Project",
       "tasks": 30,
       "progress": 52,
-      "icon": "https://cdn.jsdelivr.net/gh/kimleang288/MobileApp_API@main/images/book.png",
+      "icon": "https://raw.githubusercontent.com/kimleang288/MobileApp_API/main/images/book.png",
       "color": "#FFE180"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Daily Study",
       "tasks": 30,
       "progress": 87,
-      "icon": "https://cdn.jsdelivr.net/gh/kimleang288/MobileApp_API@main/images/user-octagon.png",
+      "icon": "https://raw.githubusercontent.com/kimleang288/MobileApp_API/main/images/user-octagon.png",
       "color": "#D0A7F2"
     }
     ]
